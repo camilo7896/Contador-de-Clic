@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img src="imagenes/2022-11-15 12_43_04-.png" alt="screem">
+<img src="imagenes/screem.png" alt="screem">
 
 ## Available Scripts
 

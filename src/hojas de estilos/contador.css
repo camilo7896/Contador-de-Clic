@@ -1,0 +1,19 @@
+.containerContador {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.contador {
+    color: white;
+    text-align: center;
+    width: 40%;
+    min-width: 300px;
+    height: 200px;
+    font-size: 80px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid gray;
+}
